@@ -176,13 +176,17 @@ ML pipeline using XGBoost + RAG-powered retention agent for personalized custome
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/ahnaf015">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahnaf015&show_icons=true&theme=transparent&title_color=00ffd5&text_color=ffffff&icon_color=7b61ff&border_color=1a1a2e&bg_color=0a0a0f&ring_color=ff2d75&hide_border=false" />
-</a>
-<a href="https://github.com/ahnaf015">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf015&layout=compact&theme=transparent&title_color=00ffd5&text_color=ffffff&border_color=1a1a2e&bg_color=0a0a0f&hide_border=false" />
-</a>
+<!-- GitHub Stats Card -->
+<picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahnaf015&show_icons=true&theme=transparent&title_color=00ffd5&text_color=ffffff&icon_color=7b61ff&border_color=1a1a2e&bg_color=0a0a0f&ring_color=ff2d75&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
+</picture>
+
+<br/>
+
+<!-- Top Languages Card -->
+<picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf015&layout=compact&theme=transparent&title_color=00ffd5&text_color=ffffff&border_color=1a1a2e&bg_color=0a0a0f&hide_border=false&cache_seconds=1800" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
