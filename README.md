@@ -6,7 +6,7 @@ Aspiring AI / Machine Learning Engineer
 
 <p align="center">
 MS in Artificial Intelligence @ Northeastern University <br>
-Former Software Engineer | Building ML Systems, LLM Applications and AI Agents
+Software Engineer | Building ML Systems, LLM Applications and AI Agents
 </p>
 
 ---
